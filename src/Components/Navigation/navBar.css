@@ -1,0 +1,26 @@
+.navBar{
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box{
+height: 50px;
+width: 100px;
+opacity: .5;
+border: 10px black dotted;
+}
+
+.div1{
+  background-color: red;
+
+}
+
+.div2{
+  background-color: green;
+}
+
+.div3{
+  background-color: blue;
+}
